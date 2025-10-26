@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "www"
 include(":app")
- 
+include(":w03")
+include(":w04")
